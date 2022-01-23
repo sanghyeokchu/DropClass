@@ -1,7 +1,7 @@
-**Learning Debiased and Disentangled Representations for Semantic Segmentation (Neurips 2021)**
+**Learning Debiased and Disentangled Representations for Semantic Segmentation**
 ============
 
-Official pytorch implementation of **[Learning Debiased and Disentangled Representations for Semantic Segmentation](https://proceedings.neurips.cc/paper/2021/file/465636eb4a7ff4b267f3b765d07a02da-Paper.pdf)**, Sanghyeok Chu, Dongwan Kim, Bohyung Han.
+Official pytorch implementation of **[Learning Debiased and Disentangled Representations for Semantic Segmentation](https://proceedings.neurips.cc/paper/2021/file/465636eb4a7ff4b267f3b765d07a02da-Paper.pdf)**, Sanghyeok Chu, Dongwan Kim, Bohyung Han. (Neurips 2021)
 
 Codes are highly referenced from [HRNet(pytorch-v1.1)](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1).
 For train and test the model, please refer to the link.
